@@ -175,10 +175,34 @@ namespace Prova3_semestre1
                     
                     if (saque)
                     {
-                        contaBancaria.Saldo -= Convert.ToDouble(txtValor.Text.Trim());
-                        txtSaldo.Text = Convert.ToString(contaBancaria.Saldo);
-                        MessageBox.Show("Valor atualizado");
-                        break;                        
+                        if (contaBancaria.Tipo == 0)
+                        {
+                            if (Convert.ToDouble(txtValor.Text.Trim()) > contaBancaria.Saldo)
+                            {
+                                MessageBox.Show("Erro! Valor selecionado maior que saldo", "Erro");
+                            }
+                            else
+                            {
+                                contaBancaria.Saldo -= Convert.ToDouble(txtValor.Text.Trim());
+                                txtSaldo.Text = Convert.ToString(contaBancaria.Saldo);
+                                MessageBox.Show("Valor atualizado");
+                                break;
+                            }
+                        }
+                        else
+                        {
+                            if (Convert.ToDouble(txtValor.Text.Trim()) > contaBancaria.Saldo + contaBancaria.Limite)
+                            {
+                                MessageBox.Show("Erro! Valor selecionado excedeu limite", "Erro");
+                            }
+                            else
+                            {
+                                contaBancaria.Saldo -= Convert.ToDouble(txtValor.Text.Trim());
+                                txtSaldo.Text = Convert.ToString(contaBancaria.Saldo);
+                                MessageBox.Show("Valor atualizado");
+                                break;
+                            }
+                        }
                     }
 
                 }
