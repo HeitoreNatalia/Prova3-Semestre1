@@ -23,37 +23,6 @@ namespace Prova3_semestre1
             InitializeComponent();
             this.Size = new Size(685, 255);
             _listConta = contaBancaria.geraContas();
-
-            _listConta.Add(new contaBancaria()
-            {
-                CodigoConta = "1",
-                Tipo = 0,
-                Saldo = 100,
-                Limite = 200
-            });
-            _listConta.Add(new contaBancaria()
-            {
-                CodigoConta = "2",
-                Tipo = 1,
-                Saldo = 150,
-                Limite = 300
-            });
-            _listConta.Add(new contaBancaria()
-            {
-                CodigoConta = "3",
-                Tipo = 0,
-                Saldo = 330,
-                Limite = 790
-            });
-            _listConta.Add(new contaBancaria()
-            {
-                CodigoConta = "4",
-                Tipo = 1,
-                Saldo = 777,
-                Limite = 888
-            });
-
-
         }
         private void frmMovimento_Load(object sender, EventArgs e)
         {
