@@ -1,0 +1,17 @@
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\bin\Debug\net6.0-windows\Prova3-semestre1.exe
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\bin\Debug\net6.0-windows\Prova3-semestre1.deps.json
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\bin\Debug\net6.0-windows\Prova3-semestre1.runtimeconfig.json
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\bin\Debug\net6.0-windows\Prova3-semestre1.dll
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\bin\Debug\net6.0-windows\Prova3-semestre1.pdb
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.csproj.AssemblyReference.cache
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3_semestre1.frmMovimento.resources
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.csproj.GenerateResource.cache
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.AssemblyInfoInputs.cache
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.AssemblyInfo.cs
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.dll
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\refint\Prova3-semestre1.dll
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.pdb
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\Prova3-semestre1.genruntimeconfig.cache
+C:\Users\Heitor\Desktop\prova3\Prova3-semestre1\Prova3-semestre1\obj\Debug\net6.0-windows\ref\Prova3-semestre1.dll
