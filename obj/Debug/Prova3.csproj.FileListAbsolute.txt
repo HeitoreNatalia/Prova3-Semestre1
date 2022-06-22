@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.Properties.Resources.resources
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.frmMovimento.resources
+C:\Users\aluno\Desktop\_Prova\Prova3\bin\Debug\Prova3.exe.config
+C:\Users\aluno\Desktop\_Prova\Prova3\bin\Debug\Prova3.exe
+C:\Users\aluno\Desktop\_Prova\Prova3\bin\Debug\Prova3.pdb
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.exe
+C:\Users\aluno\Desktop\_Prova\Prova3\obj\Debug\Prova3.pdb
